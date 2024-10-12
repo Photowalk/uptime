@@ -22,15 +22,15 @@ window.Config = {
   Navi: [
     {
       text: '主页',
-      url: 'https://uptime.001315.xyz/'
+      url: 'https://#'
     },    
     {
       text: 'GitHub',
-      url: 'https://github.com/shaoyouvip/uptime/'
+      url: 'https://#'
     },
     {
       text: '博客',
-      url: 'https://blog.aizrf.COM/'
+      url: 'https://#'
     },
   ],
 };
